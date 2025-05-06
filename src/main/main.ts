@@ -58,7 +58,7 @@ app.on("activate", () => {
 app
   .whenReady()
   .then(() => {
-    console.log("Hello World!");
+    console.log("Hello World!!!!");
   })
   .catch((err) => {
     console.log("Err:", err);
